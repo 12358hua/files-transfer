@@ -85,8 +85,6 @@ UPLOAD_DIR=./public/uploads
 # 文件过期设置（秒数，默认为1天）
 FILE_EXPIRY_SECONDS=86400
 
-# 是否启用自动清理功能（默认为true）
-ENABLE_AUTO_CLEANUP=true
 ```
 
 6. 启动开发服务器：
