@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+<path d="M0,0 L500,0 L500,500 L0,500 Z " fill="#000000" transform="translate(0,0)"/>
+<path d="M0,0 L98,0 L98,29 L96,26 L92,20 L85,17 L33,16 L33,39 L71,38 L77,35 L80,32 L80,61 L74,56 L33,55 L33,77 L91,76 L99,73 L102,68 L104,66 L104,93 L0,93 L2,91 L7,88 L9,84 L9,10 L7,4 L1,2 Z " fill="#FBFBFB" transform="translate(336,196)"/>
+<path d="M0,0 L101,0 L101,29 L99,27 L96,22 L91,19 L34,18 L34,45 L76,44 L80,42 L83,37 L84,37 L84,71 L81,67 L78,64 L76,63 L34,62 L35,82 L38,89 L44,92 L44,93 L0,93 L3,91 L8,88 L10,82 L10,10 L7,5 L2,2 Z " fill="#FAFAFA" transform="translate(59,196)"/>
+<path d="M0,0 L44,0 L43,2 L37,5 L35,10 L34,76 L88,75 L95,72 L99,66 L100,66 L100,93 L0,93 L3,91 L8,86 L9,84 L9,9 L6,4 L0,1 Z " fill="#F9F9F9" transform="translate(228,196)"/>
+<path d="M0,0 L44,0 L43,2 L37,5 L35,10 L35,84 L38,89 L43,93 L0,93 L3,91 L8,86 L9,84 L9,9 L6,4 L0,1 Z " fill="#F7F7F7" transform="translate(172,196)"/>
+</svg>
