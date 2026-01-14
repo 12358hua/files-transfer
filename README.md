@@ -14,6 +14,9 @@
 - **本地存储**：使用本地文件系统存储上传的文件
 - **MySQL 数据库**：使用 MySQL 存储文件元数据
 
+![alt text](public/demo1.png)
+![alt text](public/demo2.png)
+
 ## 🛠️ 技术栈
 
 - **前端框架**: [Next.js](https://nextjs.org/) 16
